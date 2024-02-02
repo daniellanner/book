@@ -1,4 +1,4 @@
-# Changelog
+this is a new line\n
 
 ## [v0.4.0](https://github.com/the-anatomy-of-collaboration/book/tree/v0.4.0) (2024-01-05)
 
